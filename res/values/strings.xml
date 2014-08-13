@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apoorva Instagram</string>
+    <string  name="clientid">da1c9e7ace9f461aa659c75da34e3c92</string>
+    <string  name="clientsecret">32565f6f35ef4a51a98fdaf6a529071e</string>
+    
+
+</resources>
